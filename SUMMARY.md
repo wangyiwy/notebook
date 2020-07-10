@@ -6,6 +6,7 @@
 
 * [IO](java/io.md)
 * [GC算法](java/gc-suan-fa.md)
+* [分代收集](java/fen-dai-shou-ji.md)
 
 ## middleware
 
