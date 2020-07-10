@@ -5,8 +5,12 @@
 ## java
 
 * [IO](java/io.md)
-* [GC算法](java/gc-suan-fa.md)
-* [三色标记法与读写屏障](java/fen-dai-shou-ji.md)
+
+## JVM
+
+* [内存模型](jvm/nei-cun-mo-xing.md)
+* [GC算法](jvm/gc-suan-fa.md)
+* [三色标记法与读写屏障](jvm/fen-dai-shou-ji.md)
 
 ## middleware
 
