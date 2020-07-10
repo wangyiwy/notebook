@@ -26,6 +26,7 @@
 
 ## 算法 <a id="algorithm"></a>
 
+* [快速排序](algorithm/kuai-su-pai-xu.md)
 * [链表反转](algorithm/untitled.md)
 
 ## HTTP协议 <a id="htp-protocol"></a>
