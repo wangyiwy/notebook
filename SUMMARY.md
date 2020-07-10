@@ -6,7 +6,7 @@
 
 * [IO](java/io.md)
 * [GC算法](java/gc-suan-fa.md)
-* [分代收集](java/fen-dai-shou-ji.md)
+* [三色标记法与读写屏障](java/fen-dai-shou-ji.md)
 
 ## middleware
 
