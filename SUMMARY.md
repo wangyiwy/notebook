@@ -33,3 +33,7 @@
 
 * [HTTP 1.1和HTTP 2.0的新特性](htp-protocol/http-1.1-he-http-2.0-de-xin-te-xing.md)
 
+## DataBase
+
+* [数据库设计三大范式](database/shu-ju-ku-she-ji-san-da-fan-shi.md)
+
