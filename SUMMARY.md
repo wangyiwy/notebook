@@ -5,6 +5,7 @@
 ## java
 
 * [IO](java/io.md)
+* [CAS算法](java/cas-suan-fa.md)
 
 ## JVM
 
