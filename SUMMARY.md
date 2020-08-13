@@ -29,6 +29,7 @@
 
 * [快速排序](algorithm/kuai-su-pai-xu.md)
 * [链表反转](algorithm/untitled.md)
+* [Bitmap、布隆过滤器](algorithm/bitmap-bu-long-guo-lv-qi.md)
 
 ## HTTP协议 <a id="htp-protocol"></a>
 
