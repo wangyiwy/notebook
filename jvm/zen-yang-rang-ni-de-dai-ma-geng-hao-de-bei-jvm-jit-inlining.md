@@ -2,7 +2,7 @@
 
 [https://rongmayisheng.com/%e6%80%8e%e6%a0%b7%e8%ae%a9%e4%bd%a0%e7%9a%84%e4%bb%a3%e7%a0%81%e6%9b%b4%e5%a5%bd%e7%9a%84%e8%a2%abjvm-jit-inlining/](https://rongmayisheng.com/%e6%80%8e%e6%a0%b7%e8%ae%a9%e4%bd%a0%e7%9a%84%e4%bb%a3%e7%a0%81%e6%9b%b4%e5%a5%bd%e7%9a%84%e8%a2%abjvm-jit-inlining/)
 
-jvm可以通过两个启动参数来控制字节码大小为多少的方法可以被内联：
+jvm可以通过两个启动参数来控制**字节码**大小为多少的方法可以被内联：
 
 * _-XX:MaxInlineSize_：能被内联的方法的最大字节码大小，默认值为35B，这种方法不需要频繁的调用。比如：一般pojo类中的getter和setter方法，它们不是那种调用频率特别高的方法，但是它们的字节码大小非常短，这种方法会在执行后被内联。
 * _-XX:FreqInlineSize_：调用很频繁的方法能被内联的最大字节码大小，这个大小可以比MaxInlineSize大，默认值为325B（和平台有关，我的机器是64位mac）
