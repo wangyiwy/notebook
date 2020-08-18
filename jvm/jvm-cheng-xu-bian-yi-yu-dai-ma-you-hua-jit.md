@@ -1,4 +1,4 @@
-# JVM程序编译与代码优化（JIT
+# JVM程序编译与代码优化（JIT编译）
 
 [https://juejin.im/post/6844903792299737096\#heading-0](https://juejin.im/post/6844903792299737096#heading-0)
 
