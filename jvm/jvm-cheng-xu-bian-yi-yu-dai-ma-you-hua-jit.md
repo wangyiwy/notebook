@@ -1,6 +1,6 @@
-# JVM程序编译与代码优化（JIT编译）
+# JVM程序编译与代码优化
 
-[https://juejin.im/post/6844903792299737096\#heading-0](https://juejin.im/post/6844903792299737096#heading-0)
+[https://juejin.im/post/6844903792299737096](https://juejin.im/post/6844903792299737096#heading-0)
 
 [https://rongmayisheng.com/java-jit%e6%80%a7%e8%83%bd%e8%b0%83%e4%bc%98/](https://rongmayisheng.com/java-jit%e6%80%a7%e8%83%bd%e8%b0%83%e4%bc%98/)
 
@@ -128,7 +128,7 @@ for(int i...)
 
 下面举个例子：
 
-```text
+```java
 //内联前的代码
 static class B{
     int value;
@@ -145,7 +145,7 @@ public void foo(){
 复制代码
 ```
 
-```text
+```java
 //内联后的代码
 public void foo(){
     y = b.value;
@@ -157,7 +157,7 @@ public void foo(){
 
 内联后采取的其他优化
 
-```text
+```java
 //冗余访问消除
 public void foo(){
     y = b.value;
@@ -167,7 +167,7 @@ public void foo(){
 复制代码
 ```
 
-```text
+```java
 //复写传播
 public void foo(){
     y = b.value;
@@ -177,7 +177,7 @@ public void foo(){
 复制代码
 ```
 
-```text
+```java
 //无用代码消除
 public void foo(){
     y = b.value;
@@ -241,7 +241,7 @@ AOT是jdk9才引入的编译方式，和JIT不同，AOT是在程序运行前进�
 * JIT是动态编译，JIT在运行时进行编译，将热点代码编译为机器码
 * JIT在判断代码是否为热点代码采用的是采样的热点探测和计数器的热点探测
 * HotSpot采用编译器和解释器并存的架构模式
-* JIT能够做公共子表达式消除、函数内联、逃逸分析、数组边界消除
+* JIT能够做公共子表达式消除、方法内联、逃逸分析、数组边界消除等
 * 运行时占用内存导致程序卡顿，编译时还要判断是否可以优化占时间
 
 #### AOT
@@ -250,9 +250,5 @@ AOT是jdk9才引入的编译方式，和JIT不同，AOT是在程序运行前进�
 * AOT是静态编译，运行前编译，避免编译消耗和内存消耗，显著加快程序启动，程序初期就是最高性能
 * 牺牲Java一致性
 
-  
-作者：PatrickLee666  
-链接：https://juejin.im/post/6844903792299737096  
-来源：掘金  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 
