@@ -4,7 +4,7 @@
 
 [https://rongmayisheng.com/java-jit%e6%80%a7%e8%83%bd%e8%b0%83%e4%bc%98/](https://rongmayisheng.com/java-jit%e6%80%a7%e8%83%bd%e8%b0%83%e4%bc%98/)
 
-
+[https://zhuanlan.zhihu.com/p/71566226](https://zhuanlan.zhihu.com/p/71566226)
 
 ## 编译期优化是什么？
 
