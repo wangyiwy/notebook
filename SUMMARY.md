@@ -28,8 +28,6 @@
 
 ## Golang
 
-* [Untitled](golang/untitled.md)
-
 ## 算法 <a id="algorithm"></a>
 
 * [快速排序](algorithm/kuai-su-pai-xu.md)
