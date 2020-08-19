@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Java原子类实现原理](README.md)
+* [笔记](README.md)
 
 ## java
 
