@@ -22,6 +22,8 @@
 
 * [缓存相关概念定义](middleware/untitled.md)
 * [Redis提供的持久化机制（RDB和AOF）](middleware/redis-ti-gong-de-chi-jiu-hua-ji-zhi-rdb-he-aof.md)
+* [Redis 常见的性能问题和解决方法](middleware/redis-chang-jian-de-xing-neng-wen-ti-he-jie-jue-fang-fa.md)
+* [Redis常见面试题](middleware/redis-chang-jian-mian-shi-ti.md)
 
 ## SpringBoot
 
