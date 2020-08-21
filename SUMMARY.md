@@ -21,6 +21,7 @@
 ## 中间件 <a id="middleware"></a>
 
 * [缓存相关概念定义](middleware/untitled.md)
+* [Redis提供的持久化机制（RDB和AOF）](middleware/redis-ti-gong-de-chi-jiu-hua-ji-zhi-rdb-he-aof.md)
 
 ## SpringBoot
 
