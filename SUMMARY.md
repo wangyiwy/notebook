@@ -29,6 +29,7 @@
 
 * [Spring 中 bean 的五种作用域](springboot/untitled.md)
 * [控制反转（Inversion of Control）](springboot/kong-zhi-fan-zhuan-inversion-of-control.md)
+* [Transactional失效场景](springboot/transactional-shi-xiao-chang-jing.md)
 
 ## Golang
 
