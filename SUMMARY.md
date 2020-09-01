@@ -47,4 +47,5 @@
 
 * [数据库设计三大范式](database/shu-ju-ku-she-ji-san-da-fan-shi.md)
 * [MVCC](database/mvcc.md)
+* [数据库索引](database/shu-ju-ku-suo-yin.md)
 
