@@ -11,7 +11,7 @@
 
 ## JVM
 
-* [内存模型](jvm/nei-cun-mo-xing.md)
+* [内存划分](jvm/nei-cun-mo-xing.md)
 * [GC算法](jvm/gc-suan-fa.md)
 * [三色标记法与读写屏障](jvm/fen-dai-shou-ji.md)
 * [JVM程序编译与代码优化](jvm/jvm-cheng-xu-bian-yi-yu-dai-ma-you-hua-jit.md)
