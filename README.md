@@ -18,6 +18,9 @@
 * 索引
 * MVCC
 * B树、B+树、Hash
+* SQL优化  \[大厂都是怎么SQL调优的\]\([https://juejin.cn/post/6895507965899063310\#heading-15](https://juejin.cn/post/6895507965899063310#heading-15)\)
+
+
 
 ### 消息队列
 
